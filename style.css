@@ -228,7 +228,7 @@ h2 em {
   inset: 0;
 
   background:
-    url("assets/images/cover.jpg") center / cover;
+    url("assets/Images/cover.jpg") center / cover;
 }
 
 .hero::after {
